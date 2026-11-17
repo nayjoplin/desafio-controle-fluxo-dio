@@ -1,4 +1,15 @@
-# Desafio Controle de Fluxo - DIO
+<div align="center">
+
+![Controle de fluxo Java](assets/cover.svg)
+
+# Controle de fluxo Java
+
+Desafio de programação com estruturas de controle e tratamento de condições
+
+**Bootcamp DIO**
+
+</div>
+
 
 Desafio proposto no Bootcamp Santander / DIO - Trilha Java Básico.  
 O programa recebe dois números inteiros via terminal e faz a contagem incremental entre eles.  
